@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * Sample Find and Replace program to practice debugging, unit testing, and refactoring.
- *
+ * the
  * The program will read in a file of words and their replacement values. The format of the file is:
  * Placeholder:ReplacementValue,Placeholder:ReplacementValue
  *
